@@ -1,0 +1,33 @@
+.abox{
+    border: solid 3px black;
+    background-color: lightpink;
+}
+.bbox{
+    border: solid 3px black;
+    background-color: lightblue;
+}
+.cbox{
+    background-color: lightgoldenrodyellow;
+    border: solid 3px black;
+}
+.pad{
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.size{
+    padding-top: 15px;
+    padding-left: 15px;
+    height: 150px;
+    width: 150px;
+    padding-bottom: 15px;
+}
+.padd{
+    padding-top: 15px;
+}
+.left-img{
+    padding-left: 15px;
+}
+.colo{
+    background-color: lightblue;
+}
